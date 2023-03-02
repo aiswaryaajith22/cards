@@ -1,0 +1,19 @@
+.card{
+    height:600px ;
+    background: rgba(255,255,255,0.5);
+}
+
+img{
+    height: 200px;
+}
+
+.card-text{
+height: 100px;
+overflow: hidden;
+}
+
+.body1{
+    background-image: url('https://www.bing.com/th?id=OIP.9Vo8aiKNKFqYO54Efwo3JQHaEP&w=129&h=156&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2');
+    height: 700px;
+    width: 100%;
+}
